@@ -1,0 +1,7 @@
+{
+  "name": "ASCEND – The Life Optimization Protocol",
+  "description": "A world-class, fully autonomous AI Life Coach and mentor for high-stakes goal achievement, life optimization, and mental wellness.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
